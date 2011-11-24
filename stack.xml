@@ -1,0 +1,9 @@
+<stack>
+  <description brief="humanoid_motion_planners">humanoid_motion_planners</description>
+  <author>Maintained by Thomas Moulard</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/humanoid_motion_planners</url>
+  <depend stack="ros" />
+
+</stack>
