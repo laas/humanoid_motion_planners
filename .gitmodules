@@ -1,0 +1,3 @@
+[submodule "hpp_wholebody_step_planner_bridge"]
+	path = hpp_wholebody_step_planner_bridge
+	url = git://github.com/laas/hpp_wholebody_step_planner_bridge.git
