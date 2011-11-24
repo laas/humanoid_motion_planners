@@ -4,6 +4,8 @@
   <license>BSD</license>  
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/humanoid_motion_planners</url>
+
+  <depend stack="humanoid_walk" /> <!-- walk_msgs, walk_interfaces -->
   <depend stack="ros" />
 
 </stack>
